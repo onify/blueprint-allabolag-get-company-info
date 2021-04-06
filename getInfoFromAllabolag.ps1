@@ -11,9 +11,6 @@ $allabolagResult = @{
 $orgnr = $orgnr.Replace("-", "")
 $Driver = Start-SeFirefox -StartURL "https://www.allabolag.se/$orgnr" -Quiet
 
-# Accept cookies
-$Driver.FindElementByXPath("//button[contains(.,'GODKÄNN')]").Click()
-
 # Get company info
 $ceoElement = $Driver.FindElementByXPath('//*[@id="company-card_overview"]/div[3]/div[1]/dl/dd[1]/a')
 $phoneElement = $Driver.FindElementByXPath('//*[@id="company-card_overview"]/div[3]/div[2]/dl/dd[1]/a')
