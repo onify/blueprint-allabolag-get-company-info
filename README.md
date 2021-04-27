@@ -1,8 +1,10 @@
-# Onify Blueprint: Get company info from allabolag.se
-
-Get information (CEO and Phone) from allabolag.se and print info in log.
+![Onify Blueprints](https://files.readme.io/8ba3f14-onify-blueprints-logo.png)
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+# Onify Blueprint: Get company info from allabolag.se
+
+This is a very simple "RPA" example where we get information (CEO and Phone) from allabolag.se using Selenium PowerShell module. 
 
 ## Screenshots
 
