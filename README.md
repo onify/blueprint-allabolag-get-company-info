@@ -12,7 +12,7 @@ This is a very simple "RPA" example where we get information (CEO and Phone) fro
 
 ## Requirements
 
-* Onify Hub v2
+* Onify Hub API 2.3.0 or later
 * Onify Agent (tagged `agent`, running Windows, in robot mode)
 * [Selenium PowerShell Module](https://github.com/adamdriscoll/selenium-powershell) (on Onify Agent)
 * Mozilla Firefox (on Onify Agent)
