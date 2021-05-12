@@ -4,7 +4,7 @@
 
 # Onify Blueprint: Get company info from allabolag.se
 
-This is a very simple "RPA" example where we get information (CEO and Phone) from allabolag.se using Selenium PowerShell module. 
+A very simple "RPA" example where we get information (CEO and Phone) from allabolag.se using Selenium PowerShell module and flow. 
 
 ## Screenshots
 
